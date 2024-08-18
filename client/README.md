@@ -22,7 +22,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/YourUsername/EngineersCradle.git
+git clone https://github.com/RishabhGorakhpuriya/EngineersCradle
 Navigate to the Project Directory
 
 bash
